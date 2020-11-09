@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "training-basic-web101": {
+      "hosting": {
+        "TrainingBasic": [
+          "training-basic-web101"
+        ]
+      }
+    }
+  }
+}
